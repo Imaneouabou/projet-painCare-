@@ -85,7 +85,7 @@
                                             <li><a href="blog.html">Services</a>
 	                                              <ul class="submenu">
 	                                                    <li><a href="blog.html">Test</a></li>
-	                                                    <li><a href="blog_details.html">Evaluation</a></li>
+	                                                    <li><a href="blog_details.html">Evolution of pain</a></li>
 	                                                    <li><a href="elements.html">Process</a></li>
 	                                              </ul>
                                             </li>
